@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Zohar second change");
         System.out.println("Master change");
         System.out.println("zohar third change");
+        System.out.println("Change after push");
     }
 }
